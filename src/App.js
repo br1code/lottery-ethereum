@@ -80,7 +80,7 @@ class App extends Component {
         <Container className="my-5">
           <Row>
             <Col className="text-center">
-              <h1>Lottery Smart Contract - Neoris Lab</h1>
+              <h1>Lottery Smart Contract - Neoris Innovation Lab</h1>
               <p className="lead">
                 El administrador de este contrato es <strong>{ this.state.manager }</strong>.<br/>
                 En este momento hay <strong>{ this.state.players.length }</strong> persona/s compitiendo por 
